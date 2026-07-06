@@ -321,3 +321,4 @@ brightcart_db
 | Role | Data Analyst Intern |
 | Project | BrightCart Cloud Capstone — Data Analyst Intern Assessment |
 | Tools | MySQL · Python · Power BI · GitHub |
+
